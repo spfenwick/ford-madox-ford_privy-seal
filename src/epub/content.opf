@@ -27,8 +27,8 @@
 		<meta property="schema:accessibilityFeature">unlocked</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
-		<dc:title id="title">Privy Seal</dc:title>
-		<meta property="file-as" refines="#title">Privy Seal</meta>
+		<dc:title id="title">The Privy Seal</dc:title>
+		<meta property="file-as" refines="#title">Privy Seal, The</meta>
 		<dc:title id="subtitle">His Last Venture</dc:title>
 		<dc:subject id="subject-1">Biographical fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCHS</meta>
@@ -46,7 +46,7 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/26698</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
+		<dc:source>https://archive.org/details/privysealhislast00fordrich/">Internet Archive</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
