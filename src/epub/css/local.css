@@ -9,7 +9,6 @@ section[epub|type~="dedication"]{
 
 section[epub|type~="dedication"] b{
 	font-size: larger;
-	font-weight: bold;
 }
 
 section[epub|type~="dedication"] > *{
