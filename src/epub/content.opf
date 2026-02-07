@@ -46,7 +46,7 @@
 		<meta property="authority" refines="#subject-3">LCHS</meta>
 		<meta property="term" refines="#subject-3">sh2008110319</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A scholor becomes embroiled in the personal and political intribues of the Tudor court</dc:description>
+		<dc:description id="description">A scholar becomes embroiled in the personal and political intrigues of the Tudor court.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
