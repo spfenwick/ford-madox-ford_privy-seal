@@ -29,6 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Privy Seal</dc:title>
 		<meta property="file-as" refines="#title">Privy Seal</meta>
+		<dc:title id="subtitle">His Last Venture</dc:title>
 		<dc:subject id="subject-1">Biographical fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCHS</meta>
 		<meta property="term" refines="#subject-1">sh85014149</meta>
@@ -81,6 +82,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Fifth Queen</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">2</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
