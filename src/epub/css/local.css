@@ -36,7 +36,6 @@ section[epub|type~="dedication"] > *{
 }
 /* End dedication */
 
-
 /* Begin verse */
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
@@ -52,30 +51,13 @@ section[epub|type~="dedication"] > *{
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
-
 /* End verse */
-
 
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
 	-epub-hyphens: none;
-}
-
-[epub|type~="epigraph"] em,
-[epub|type~="epigraph"] i{
-	font-style: normal;
-}
-
-[epub|type~="epigraph"] cite{
-	font-style: normal;
-	font-variant: small-caps;
-	margin-top: 1em;
-}
-
-[epub|type~="epigraph"] cite i{
-	font-style: italic;
 }
 /* End all epigraphs */
 
@@ -107,9 +89,6 @@ section[epub|type~="epigraph"] > *{
 		margin: 0;
 	}
 
-	section[epub|type~="epigraph"] > * + *{
-		margin-top: 3em;
-	}
 }
 /* End full-page epigraphs */
 
