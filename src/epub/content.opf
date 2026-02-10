@@ -48,7 +48,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A scholar becomes embroiled in the personal and political intrigues of the Tudor court.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;“Privy Seal: His Last Venture” by &lt;a href="https://standardebooks.org/ebooks/ford-madox-ford"&gt;Ford Madox Ford&lt;/a&gt; is a historical novel published in 2008 and is the second novel of the “Fifth Queen” trilogy. It follows the scholar Magister Udal as he navigates the dangerous personal and political intrigues of the court of King Henry VIII. Udal can’t take his own safety for granted as he becomes entangled with the rise of Katherine Howard and the fall of Thomas Cromwell.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/26698</dc:source>
